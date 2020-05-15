@@ -1,0 +1,11 @@
+You must have the following installed to run this project:
+
+
+1. Python
+2. Pandas
+3. Numpy
+4. Seaborn (To be used in part 2) 
+5. MatplotLib (To be used in part 2)
+6. Scikit-Learn (To be used in part 3)
+7. Streamlit (Could be used in part 3)
+8. Jupyter Notebook
